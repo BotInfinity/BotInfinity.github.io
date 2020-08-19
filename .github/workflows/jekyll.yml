@@ -9,7 +9,7 @@ on:
 jobs:
   build:
 
-    runs-on: self-hosted
+    runs-on: CONSUELO2
 
     steps:
     - uses: actions/checkout@v2
